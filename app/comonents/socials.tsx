@@ -11,4 +11,4 @@ export default function Socials(){
       <i className="bx bxl-linkedin"></i>
     </a>
   </div>
-}
+} 

@@ -33,9 +33,9 @@ export default function Hero() {
           </a>
           <a href="#contact" className={styles["btn"]}>
             Let&apos;s Talk
-          </a>
+          </a> 
         </div>
-      </div>
+      </div> 
       <div className={styles["home-img"]}></div>
     </section>
   );

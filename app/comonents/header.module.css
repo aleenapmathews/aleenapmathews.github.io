@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
 
 .header {
   position: fixed;
@@ -17,11 +17,50 @@
 .logo {
   font-size: 4rem;
   color: var(--text-color);
-  /* font-weight: 600; */
+
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: "normal";
+}
+.mobile-icon {
+  display: none;
+}
+
+.mobile-navbar {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: none;
+  }
+  .mobile-icon {
+    display: block;
+    color: aliceblue;
+    font-size: 3rem;
+    background-color: transparent;
+    width: 5rem;
+    height: 5rem;
+  }
+  .mobile-navbar {
+    display: flex;
+    flex-direction: column;
+    height: 25rem;
+    width: 15rem;
+    background-color: rgba(140, 153, 153, 0.309);
+    right: 0;
+    top: 6rem;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+  }
+  .font{
+    font-size: 2rem;
+    display: flex;
+    margin-bottom: 20px;
+    color: aliceblue;
+  }
 }
 
 .navbar a {
