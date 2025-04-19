@@ -36,11 +36,16 @@
 .education-column .education-box {
   border-left: 0.2rem solid var(--main-color);
 }
+.education-box a{
+  color: var(--main-color);
+  font-size: medium;
+}
 
 .education-box .education-content {
   position: relative;
   padding-left: 2rem;
 }
+
 
 .education-box .education-content::before {
   content: "";

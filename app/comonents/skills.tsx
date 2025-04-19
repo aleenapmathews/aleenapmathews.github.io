@@ -22,12 +22,12 @@ export default function Skills() {
             <div className={style["skills-content"]}>
               <div className={style["progress"]}>
                 <h3>
-                  HTML <span>30%</span>
+                  React.js <span>60%</span>
                 </h3>
                 <div className={style["bar"]}>
                   <motion.span
                     initial={{ width: 0 }}
-                    whileInView={{ width: "30%" }}
+                    whileInView={{ width: "60%" }}
                     transition={{ duration: 0.5 }}
                   ></motion.span>
                 </div>

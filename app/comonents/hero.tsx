@@ -19,7 +19,7 @@ export default function Hero() {
           <h3>Frontend Developer</h3>
         </div>
         <p>
-          Welcome to my portfolio website!. This website is a space where I
+          This is a space where I
           blend my technical skills with my creative interests, showcasing a
           collection of my work.I invite you to explore, learn more about what I
           do, and hopefully, get inspired along the way.
@@ -33,9 +33,9 @@ export default function Hero() {
           </a>
           <a href="#contact" className={styles["btn"]}>
             Let&apos;s Talk
-          </a> 
+          </a>
         </div>
-      </div> 
+      </div>
       <div className={styles["home-img"]}></div>
     </section>
   );

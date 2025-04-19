@@ -67,12 +67,15 @@ export default function Education() {
                 <div className={style["year"]}>
                   <i className={"bx bxs-calendar"}></i>2024
                 </div>
-                <h3>Portfolio</h3>
+                <h3>Pratitya 25</h3>
                 <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Consequatur expedita inventore earum quisquam similique,
-                  dignissimos in unde necessitatibus cum animi.
+                  Developed a dynamic and engaging website for Pratitya, the
+                  official college fest, aimed at showcasing events, schedules,
+                  and registration details.{" "}
                 </p>
+                <a href="https://pratitya.in/" target="_blank">
+                  pratitya.in
+                </a>
               </div>
             </div>
 
@@ -81,11 +84,11 @@ export default function Education() {
                 <div className={style["year"]}>
                   <i className={"bx bxs-calendar"}></i>2017 - 2018
                 </div>
-                <h3>Master Degree-University</h3>
+
+                <h3>Portfolio</h3>
                 <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Consequatur expedita inventore earum quisquam similique,
-                  dignissimos in unde necessitatibus cum animi.
+                  This website is a space where I blend my technical skills with
+                  my creative interests, showcasing a collection of my work
                 </p>
               </div>
             </div>
@@ -98,9 +101,14 @@ export default function Education() {
                 <h3>BMI Calculator</h3>
                 <p>
                   A BMI (Body Mass Index) calculator is a tool that helps
-                  determine if an individual&apos;s weight is within a healthy range
-                  for their height.<br></br>
-                  <a style={{color:"var(--main-color)"}}href="https://bmi-tau-one.vercel.app/">https://bmi-tau-one.vercel.app/</a>
+                  determine if an individual&apos;s weight is within a healthy
+                  range for their height.<br></br>
+                  <a
+                    style={{ color: "var(--main-color)" }}
+                    href="https://bmi-tau-one.vercel.app/"
+                  >
+                    https://bmi-tau-one.vercel.app/
+                  </a>
                 </p>
               </div>
             </div>

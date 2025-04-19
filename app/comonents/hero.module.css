@@ -1,7 +1,9 @@
 .home {
   display: flex;
   align-items: center;
-  padding: 0 9%;
+  padding: 1% 9%;
+
+  min-height: 0;
 }
 
 .home span {
@@ -9,8 +11,8 @@
 }
 
 .home-img {
-  height: 1070px;
-  width: 1070px;
+  height: 90vh;
+  width: 660px;
   background: url("/Me.webp") no-repeat;
   background-size: contain;
   background-position: right;

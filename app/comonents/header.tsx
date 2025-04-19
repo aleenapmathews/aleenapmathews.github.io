@@ -35,7 +35,7 @@ export default function Header() {
         {isClicked && (
           <nav className={styles["mobile-navbar"]}>
             <a href="#home" className={styles["font"]}>
-              Home
+              Home 
             </a>
             <a className={styles["font"]} href="#about">
               About
