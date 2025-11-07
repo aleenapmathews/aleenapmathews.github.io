@@ -17,7 +17,7 @@ export default function About() {
       <div className={styles["about-content"]}>
         <h3>Frontend Developer!</h3>
         <p>
-          Hello! I&apos;m Aleena P Mathews, a 3rd-year Computer Science
+          Hello! I&apos;m Aleena P Mathews, a final year Computer Science
           Engineering student at Saintgits College of Engineering. My passions
           lie in the world of creativity and technology. When I&apos;m not
           diving deep into code, you&apos;ll find me expressing myself through

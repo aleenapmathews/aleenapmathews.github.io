@@ -17,7 +17,7 @@ export default function Header() {
       <header className={styles["header"]}>
         <a href="#" className={styles["logo"]}>
           Aleena
-        </a>
+        </a> 
         <div className={`bx bx-menu ${styles["menu-icon"]}`}></div>
         <nav className={styles["navbar"]}>
           <a href="#home" className={styles["active"]}>
