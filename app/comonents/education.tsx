@@ -26,7 +26,7 @@ export default function Education() {
                 </div>
                 <h3>Bachelor Degree-college</h3>
                 <p>
-                  I&apos;m a 3rd-year Computer Science student at Saintgits
+                  I&apos;m a final year Computer Science student at Saintgits
                   College of Engineering.
                 </p>
               </div>
@@ -82,7 +82,7 @@ export default function Education() {
             <div className={style["education-content"]}>
               <div className={style["content"]}>
                 <div className={style["year"]}>
-                  <i className={"bx bxs-calendar"}></i>2017 - 2018
+                  <i className={"bx bxs-calendar"}></i>2023
                 </div>
 
                 <h3>Portfolio</h3>
