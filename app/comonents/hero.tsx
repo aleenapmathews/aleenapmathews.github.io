@@ -19,14 +19,13 @@ export default function Hero() {
           <h3>Frontend Developer</h3>
         </div>
         <p>
-          This is a space where I
-          blend my technical skills with my creative interests, showcasing a
-          collection of my work.I invite you to explore, learn more about what I
-          do, and hopefully, get inspired along the way.
+          This is a space where I blend my technical skills with my creative
+          interests, showcasing a collection of my work.I invite you to explore,
+          learn more about what I do, and hopefully, get inspired along the way.
         </p>
         <div className={styles["btn-box"]}>
           <a
-            href="https://www.canva.com/design/DAGOW1h4u8E/uQT12zsSlJ5YMdoOxfE7BQ/view?utm_content=DAGOW1h4u8E&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+            href="https://www.canva.com/design/DAG7LX48r-o/-uN-QLRyaqD0-d8MHzzNgw/edit?utm_content=DAG7LX48r-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
             className={styles["btn"]}
           >
             My Resume

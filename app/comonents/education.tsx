@@ -96,6 +96,53 @@ export default function Education() {
             <div className={style["education-content"]}>
               <div className={style["content"]}>
                 <div className={style["year"]}>
+                  <i className={"bx bxs-calendar"}></i>2025
+                </div>
+                <h3>PlanMyTrip</h3>
+                <p>
+                  Plan My Trip is a smart travel itinerary generator that helps
+                  users create personalized travel plans based on their
+                  destination and trip duration. <br></br>
+                </p>
+              </div>
+            </div>
+
+            <div className={style["education-content"]}>
+              <div className={style["content"]}>
+                <div className={style["year"]}>
+                  <i className={"bx bxs-calendar"}></i>2024
+                </div>
+                <h3>Certihub</h3>
+                <p>
+                  A secure Digital Certificate Management System with
+                  issuance,renewal tracking, encryption and reporting features.
+                  <br></br>
+                </p>
+              </div>
+            </div>
+
+            <div className={style["education-content"]}>
+              <div className={style["content"]}>
+                <div className={style["year"]}>
+                  <i className={"bx bxs-calendar"}></i>2025
+                </div>
+                <h3>Dishly</h3>
+                <p>
+                  A cozy recipe platform for step by step cooking guides from
+                  classics to modern dishes.<br></br>
+                  <a
+                    style={{ color: "var(--main-color)" }}
+                    href="https://recipe-three-sigma.vercel.app/"
+                  >
+                    https://recipe-three-sigma.vercel.app/
+                  </a>
+                </p>
+              </div>
+            </div>
+
+            <div className={style["education-content"]}>
+              <div className={style["content"]}>
+                <div className={style["year"]}>
                   <i className={"bx bxs-calendar"}></i>2023
                 </div>
                 <h3>BMI Calculator</h3>
